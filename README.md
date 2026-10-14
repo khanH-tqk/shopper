@@ -49,5 +49,5 @@ Mở `shopper-product-search.html` bằng trình duyệt. Nếu trình duyệt h
 ## Liên kết nộp bài
 
 - Figma: [Figma link](https://www.figma.com/design/oS4YO75RZd4Mo9WPVPliGs/shopper?node-id=0-1&p=f)
-- Video trình bày: Chưa cập nhật.
+- Video trình bày: [Youtube link](https://youtu.be/D1V3RiUA58g)
 - GitHub: [GitHub link](https://github.com/khanH-tqk/shopper)
