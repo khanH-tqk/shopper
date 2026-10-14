@@ -1,0 +1,1 @@
+# shopper_product_location
